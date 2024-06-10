@@ -1,0 +1,81 @@
+# All blobs are from "QCAC50SA-user 6.0 MRA58K 20160928.071231 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger|cb63db34c2046a4d6b46a1021dac9d8033cace49
+lib/libshowlogo.so|4c357bf4a6c1cf492dec9eb5c18f70558bc56c89
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|6bac79710318fb8b05c57359e6a54c4f6ae3b6ae
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so|f8e68b8980fcd5b1822b0816447a09145107bc26
+vendor/lib/mediadrm/libwvdrmengine.so|96fa4be95816c48e67a6d762cb1e7dc3594331e8
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/catcher_filter_1_lwg_n.bin|3c4d028d1f5fd5aa857c832336cb57acb613aea4
+etc/firmware/dsp_1_lwg_n.bin|6977b28b1ca996ee542efb1c1ee493f5296f5adb
+etc/firmware/em_filter_1_lwg_n.bin|91bfa9e3c313d5468f63935d7babac516d8c1dda
+etc/firmware/modem_1_lwg_n.img|d981a9fd397b3dda65acfe95633ba994b204d8e9
+etc/firmware/mt6627/mt6627_fm_v1_coeff.bin|6d8504d6932329c7216c8c016fa7351d084a4d33
+etc/firmware/mt6627/mt6627_fm_v1_patch.bin|89c569e38fa50ca09edc13e02ace3efbd1eaa178
+etc/firmware/mt6627/mt6627_fm_v2_coeff.bin|099600a10a944114aac406d136b625fb416dd779
+etc/firmware/mt6627/mt6627_fm_v2_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v3_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v3_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v4_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v4_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v5_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v5_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/ROMv2_lm_patch_1_0_hdr.bin|8aa366180c8902861d204bb6a8a7fb3ad107c519
+etc/firmware/ROMv2_lm_patch_1_1_hdr.bin|38cd03b33059909b64bac76af946bbd565c0476a
+etc/firmware/WIFI_RAM_CODE_6735|57ec55ebf3f082a35e0c17a8ec50e34ccabd7247
+etc/firmware/WMT_SOC.cfg|bcb7fbba6010d39bb131160481ee27a536347eb2
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/drm/libdrmwvmplugin.so|8ab5b4e10dbb658a2dc621111be8c75313319ce5
+vendor/lib/libwvdrm_L3.so|7e77482481197997294a834bfbc817a01b6075cd
+vendor/lib/libwvm.so|d5c255c34a75258f4fcee846d9252e6b25f22492
+vendor/lib/libWVStreamControlAPI_L3.so|61673304827483d44b735a3dd08f0783d10ce92d
+-vendor/operator/app/Baidu_Location/Baidu_Location.apk|cbe6a81d7f6eb977763425fa7f49ae5aaa478df0
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/landmark_group_meta_data.bin|a771c2183bcba5944189a7752e22b279a8543ee0
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin|f9bfa7646e345ec7f2aa12b451808ea45107215b
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin|2e14293363a8fb85676a8d317778bf649261a259
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-3-tree7-wmd.bin|9f98c71df77f6c69d1d56c61ffd97cdd81b0bef0
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-r0-ri30.4a-v24-tree7-2-wmd.bin|048d034cc65df3844ad647eac03d08741221a4e6
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rn30-ri30.5-v24-tree7-2-wmd.bin|9bc872ea4901e0729cb893fe6ef68f60be258227
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rp30-ri30.5-v24-tree7-2-wmd.bin|090fc6267daeecc9e32040d0d17187d8a2a17ef1
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-r.8.1.bin|6dbf957cdf30bcb3f5341b85d9830eb8427cce28
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-y-r.8.1.bin|8616cf5f6f8b9c753401f451f151b752d0e8026f
+vendor/pittpatt/models/recognition/face.face.y0-y0-71-N-tree_7-wmd.bin|51992bb8e8d46a03456e8aaae2009173898af6ac

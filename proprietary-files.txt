@@ -1,0 +1,81 @@
+# All blobs from QCAC50SA-user 6.0 MRA58K 20160928.071231 release-keys, unless pinned
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger
+lib/libshowlogo.so
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/catcher_filter_1_lwg_n.bin
+etc/firmware/dsp_1_lwg_n.bin
+etc/firmware/em_filter_1_lwg_n.bin
+etc/firmware/modem_1_lwg_n.img
+etc/firmware/mt6627/mt6627_fm_v1_coeff.bin
+etc/firmware/mt6627/mt6627_fm_v1_patch.bin
+etc/firmware/mt6627/mt6627_fm_v2_coeff.bin
+etc/firmware/mt6627/mt6627_fm_v2_patch.bin
+etc/firmware/mt6627/mt6627_fm_v3_coeff.bin
+etc/firmware/mt6627/mt6627_fm_v3_patch.bin
+etc/firmware/mt6627/mt6627_fm_v4_coeff.bin
+etc/firmware/mt6627/mt6627_fm_v4_patch.bin
+etc/firmware/mt6627/mt6627_fm_v5_coeff.bin
+etc/firmware/mt6627/mt6627_fm_v5_patch.bin
+etc/firmware/ROMv2_lm_patch_1_0_hdr.bin
+etc/firmware/ROMv2_lm_patch_1_1_hdr.bin
+etc/firmware/WIFI_RAM_CODE_6735
+etc/firmware/WMT_SOC.cfg
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L3.so
+-vendor/operator/app/Baidu_Location/Baidu_Location.apk
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/landmark_group_meta_data.bin
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-3-tree7-wmd.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-r0-ri30.4a-v24-tree7-2-wmd.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rn30-ri30.5-v24-tree7-2-wmd.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rp30-ri30.5-v24-tree7-2-wmd.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-r.8.1.bin
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-y-r.8.1.bin
+vendor/pittpatt/models/recognition/face.face.y0-y0-71-N-tree_7-wmd.bin

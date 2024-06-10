@@ -1,0 +1,20 @@
+## QCAC50SA-user 6.0 MRA58K 20160928.071231 release-keys
+- Manufacturer: archos
+- Platform: mt6737t
+- Codename: ac50sa
+- Brand: archos
+- Flavor: full_fq5c62wt_aks-user
+- Release Version: 6.0
+- Kernel Version: 
+- Id: MRA58K
+- Incremental: 20160928.071231
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-US
+- Screen Density: 280
+- Fingerprint: archos/QCAC50SA/ac50sa:6.0/MRA58K/20160928.071231:user/release-keys
+- OTA version: 
+- Branch: QCAC50SA-user-6.0-MRA58K-20160928.071231-release-keys
+- Repo: archos_ac50sa_dump

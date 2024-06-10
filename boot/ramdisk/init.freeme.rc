@@ -1,0 +1,25 @@
+# Freeme project .rc configure
+
+import /init.freeme.fp.rc
+
+
+on post-fs-data
+    # Smart weakup.
+    chown root system /sys/class/syna/gesenable
+    chown root system /sys/class/syna/gloenable
+
+    # Battery info extends.
+    chmod 0666 /dev/MT_pmic_adc_cali
+
+
+on boot
+
+
+# NativeMisc.
+on property:service.nvram_init=Ready
+    start NativeMisc
+service NativeMisc /system/bin/NativeMisc --config-ges-gen --config-tp-glove --config-pressure
+    class main
+    user root
+    group system
+    disabled
